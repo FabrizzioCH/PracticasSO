@@ -1,0 +1,8 @@
+Nombre del alumno: Fabrizzio Cazares
+Edad: 20
+Matricula: 10056426
+Carrera: 10056426
+Nombre del alumno: Ernesto Fabrizzio Cazares Hernandez
+Edad: 20
+Matricula: 10056426
+Carrera: Licenciatura en Informatica
